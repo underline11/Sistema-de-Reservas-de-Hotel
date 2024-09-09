@@ -1,0 +1,13 @@
+Ignorar arquivos e diretórios específicos do MySQL
+*.sql *.db
+
+Ignorar arquivos temporários e de configuração do sistema
+*.log *.tmp
+
+Ignorar arquivos de backup
+*.bak
+
+Ignorar arquivos de IDE e editor
+.idea/ .vscode/ *.swp *.swo
+
+Ignorar diretórios e arquivos do sistema
